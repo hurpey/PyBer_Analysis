@@ -33,7 +33,7 @@ a.	Based on the results of the analysis performed, rural cities only account for
  ![image](https://user-images.githubusercontent.com/79670933/113518936-54a93200-9557-11eb-8d04-66a5614e51be.png)
 Figure 3 - % of Total rides per City Type (source - PyBer ride sharing data, 2019)
 
-b.	Based on the results of analysis performed, rural cities only account for 6.8% of PyBer’s total revenue or fares. Average fare per driver in rural cities is however significantly higher than in suburban and urban cities (3.5 times higher than the average fare per driver in urban cities). PyBer should consider regulating the average fare per driver by setting a standard fare per driver across cities. There should however be some flexibility to increase this by set percentages, for instance, in the case of a surge in ride request or during statutory holidays.
+b.	Based on the results of analysis performed, rural cities only account for 6.8% of PyBer’s total revenue or fares (see - Figure 4 below). Average fare per driver in rural cities is however significantly higher than in suburban and urban cities (3.5 times higher than the average fare per driver in urban cities). PyBer should consider regulating the average fare per driver by setting a standard fare per driver across cities. There should however be some flexibility to increase this by set percentages, for instance, in the case of a surge in ride request or during statutory holidays.
 
  ![image](https://user-images.githubusercontent.com/79670933/113518945-638fe480-9557-11eb-94c4-19d085220d16.png)
 Figure 4 - % of Total Fares per City Type (source - PyBer ride sharing data, 2019)
