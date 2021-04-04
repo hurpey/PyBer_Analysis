@@ -5,6 +5,7 @@
 The purpose of this new analysis is to create a written report that summarizes how the PyBer ride-sharing data and total weekly fares differs by city type for 2019, and how those differences can be used by decision-makers at PyBer. This analysis includes the summary DataFrame of ride sharing data by city type, and a multiple-line graph showing the total weekly fares for each city type, and was created using Pandas, Matplotlib and Python skills.
 
 2.	Results
+
 Using images and results from the summary DataFrame (see – Figure 1 below) and multiple-line chart (see – Figure 2 below), the following differences in PyBer’s ride-sharing data for 2019 among the different city types are noted:
 
 •	The average fare per ride is lower in urban cities when compared to rural and suburban cities.
@@ -26,6 +27,7 @@ Figure 2  - Multiple-line chart of total fares for each city type (source – Py
 
 
 3.	Summary
+
 The following are three business recommendations to the CEO for addressing any disparities among the city types:
 
 a.	Based on the results of the analysis performed, rural cities only account for 125 rides which is 5.3% of PyBer’s total rides for the period analyzed (see -Figure 3 below). To encourage more ride sharing patronage which should also result in increased revenue from rural cities, PyBer should consider reducing the average fare per ride in rural cities to match average fare per ride in suburban cities or urban cities. This should also mitigate any risk of an oligopoly which drivers in rural cities may be enjoying.
